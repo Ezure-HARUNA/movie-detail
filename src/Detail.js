@@ -110,7 +110,7 @@ const Detail =(props) => {
               {rating()}
 
             <h1>{props.movies[0].title}</h1> 
-            <h2>overview</h2>
+            <h2>Overview</h2>
             <p>{props.movies[0].overview}</p>
          
             <StyledButton  variant="contained" color="primary" startIcon={<FavoriteRoundedIcon />}>
