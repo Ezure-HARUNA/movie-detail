@@ -8,7 +8,7 @@ import Button from '@material-ui/core/Button';
 import FavoriteRoundedIcon from '@material-ui/icons/FavoriteRounded';
 
 
-const imgUrl = "https://image.tmdb.org/t/p/w154/";
+const imgUrl = "https://image.tmdb.org/t/p/w1280/";
 
 const Img =styled.img`
 width:100%;
